@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Emma Hanson 👋
+
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on ML Products
+- 📫 How to reach me: [twitter](https://twitter.com/emmahansonx), [ProductHunt](https://www.producthunt.com/@emmahanson) or [Medium](https://medium.com/@hansonemma580)
 
 <!--
 **emmahanson580/emmahanson580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
